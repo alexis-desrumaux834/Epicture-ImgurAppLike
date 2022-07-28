@@ -1,0 +1,15 @@
+{
+  "name": "Epicture",
+  "displayName": "Epicture",
+  "expo": {
+    "name": "Epicture",
+    "slug": "Epicture",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.epitech.epicture"
+    }
+  }
+}
